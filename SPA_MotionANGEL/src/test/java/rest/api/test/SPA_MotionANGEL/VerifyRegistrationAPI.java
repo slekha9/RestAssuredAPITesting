@@ -16,6 +16,7 @@ public class VerifyRegistrationAPI
 		
 		
 		System.out.println("Response status: "+response.getStatusCode());
+		System.out.println("Response time : "+response.getTime());
 		System.out.println("Response output: "+response.asString());
 
 	}

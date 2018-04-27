@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1830" started-at="2018-04-26T07:58:34Z" finished-at="2018-04-26T07:58:35Z">
+  <suite name="Default suite" duration-ms="1997" started-at="2018-04-27T07:36:50Z" finished-at="2018-04-27T07:36:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1830" started-at="2018-04-26T07:58:34Z" finished-at="2018-04-26T07:58:35Z">
+    <test name="Default test" duration-ms="1997" started-at="2018-04-27T07:36:50Z" finished-at="2018-04-27T07:36:52Z">
       <class name="rest.api.test.SPA_MotionANGEL.VerifyRegistrationAPI">
-        <test-method status="PASS" signature="verifyRegistrationAPI()[pri:0, instance:rest.api.test.SPA_MotionANGEL.VerifyRegistrationAPI@6a2bcfcb]" name="verifyRegistrationAPI" duration-ms="1797" started-at="2018-04-26T13:28:34Z" finished-at="2018-04-26T13:28:35Z">
+        <test-method status="PASS" signature="verifyRegistrationAPI()[pri:0, instance:rest.api.test.SPA_MotionANGEL.VerifyRegistrationAPI@6a2bcfcb]" name="verifyRegistrationAPI" duration-ms="1939" started-at="2018-04-27T13:06:50Z" finished-at="2018-04-27T13:06:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyRegistrationAPI -->
